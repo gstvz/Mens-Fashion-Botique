@@ -13,7 +13,7 @@ git clone https://github.com/gstvz/Mens-Fashion-Botique.git
 
 ## 📂 Move yourself to the appropriate repository.
 ```bash
-cd todo-app
+cd mens-fashion-botique
 ```
 
 ## 🎉 Install the package dependencies.
