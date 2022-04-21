@@ -15,7 +15,6 @@ export const GlobalStyle = createGlobalStyle`
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
     height: 100%;
-    overflow: hidden;
   };
 
   a {

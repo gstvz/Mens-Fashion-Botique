@@ -9,7 +9,7 @@ export const Header = styled.header`
 export const Container = styled.div`
   align-items: center;
   display: flex;
-  gap: 200px;
+  gap: 20rem;
   height: 100%;
   margin: 0 auto;
   width: 85%;
@@ -55,7 +55,7 @@ export const ActionsNav = styled.nav``;
 
 export const ActionsList = styled.ul`
   display: flex;
-  gap: 80px;
+  gap: 8rem;
   justify-content: center;
 `;
 
