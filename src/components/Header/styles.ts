@@ -4,12 +4,13 @@ export const Header = styled.header`
   align-items: center;
   display: flex;
   height: 10rem;
+  width: 100%;
 `;
 
 export const Container = styled.div`
   align-items: center;
   display: flex;
-  gap: 20rem;
+  justify-content: space-between;
   height: 100%;
   margin: 0 auto;
   width: 85%;

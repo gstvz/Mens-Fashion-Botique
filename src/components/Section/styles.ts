@@ -38,6 +38,6 @@ export const PhotoContainer = styled.div`
 `;
 
 export const Photo = styled.img`
-  height: 62.7rem;
-  width: 46rem;
+  height: 100%;
+  width: 55rem;
 `;
