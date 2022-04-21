@@ -1,11 +1,11 @@
 import * as S from "./styles";
-import { BotiqueLogo } from "../../assets/index";
+import { BotiqueLogo } from "@assets";
 import {
   FaRegUserCircle,
   FiSearch,
   RiHeart2Line,
   RiShoppingCartLine,
-} from "../../shared/icons";
+} from "@icons";
 
 export const Header = () => {
   return (
