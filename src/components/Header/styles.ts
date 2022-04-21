@@ -9,7 +9,7 @@ export const Header = styled.header`
 export const Container = styled.div`
   align-items: center;
   display: flex;
-  justify-content: space-between;
+  gap: 200px;
   margin: 0 auto;
   width: 85%;
 `;
@@ -36,7 +36,6 @@ export const NavItem = styled.li`
   color: #ffffff;
   cursor: pointer;
   font-size: 1.6rem;
-  padding-bottom: 2rem;
 
   &:hover {
     border-bottom: 3px solid #c46145;
@@ -44,12 +43,11 @@ export const NavItem = styled.li`
 `;
 
 export const ActionsNav = styled.nav`
-  flex: 1;
 `;
 
 export const ActionsList = styled.ul`
   display: flex;
-  gap: 50px;
+  gap: 80px;
   justify-content: center;
 `;
 
