@@ -15,8 +15,8 @@ export const Header = () => {
           <S.Logo src={BotiqueLogo} />
           <S.Nav>
             <S.NavList>
-              <S.NavItem>TheProduct</S.NavItem>
-              <S.NavItem>OurStory</S.NavItem>
+              <S.NavItem>The Product</S.NavItem>
+              <S.NavItem>Our Story</S.NavItem>
               <S.NavItem>Values</S.NavItem>
               <S.NavItem>USD</S.NavItem>
               <S.NavItem>contact us</S.NavItem>
